@@ -1,5 +1,6 @@
 var React = require('react');
 require('./css/todoItem.css');
+
 //create TodoItem component
 var TodoItem = React.createClass({
   render: function() {
