@@ -4,5 +4,6 @@
 * Lesson 3 (Simple component)
 * Lesson 4 (Simple props)
 * Lesson 5 (Simple state and virtual DOM)
+* lesson 6 (Cycling through data)
 
 ^_^
