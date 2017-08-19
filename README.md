@@ -1,3 +1,3 @@
 # learn-react
 
-Belajar simple component
+Belajar simple props
