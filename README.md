@@ -9,6 +9,7 @@
 * lesson 8 (Handling events)
 * lesson 9 (Modularizing code)
 * lesson 10 (Input refs)
+* lesson 11 (Simple Component lifecycle)
 
 ## Build Setup
 
