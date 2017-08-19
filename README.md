@@ -8,6 +8,7 @@
 * lesson 7 (Nesting component)
 * lesson 8 (Handling events)
 * lesson 9 (Modularizing code)
+* lesson 10 (Input refs)
 
 ## Build Setup
 
