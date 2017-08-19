@@ -7,6 +7,7 @@
 * lesson 6 (Cycling through data)
 * lesson 7 (Nesting component)
 * lesson 8 (Handling events)
+* lesson 9 (Modularizing code)
 
 ## Build Setup
 
